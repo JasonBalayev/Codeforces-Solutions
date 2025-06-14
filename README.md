@@ -1,6 +1,1 @@
-Codeforces Solutions
-
-This repository contains my solutions to problems on Codeforces.
-
-
-
+My Codeforces Solutions
